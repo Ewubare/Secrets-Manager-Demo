@@ -4,8 +4,6 @@
 
 ---
 
-In this project, I will demonstrate my ability to architect and implement a comprehensive security monitoring solution using AWS cloud services to detect and respond to unauthorized access attempts on sensitive data.
-
 ### Tools and concepts
 
 Services I used were AWS Secrets Manager for secure credential storage, AWS IAM for access key management and permissions, Amazon S3 for bucket creation and listing, GitHub for version control and secret scanning protection, and AWS KMS for encryption of stored secrets. Key concepts I learnt include the fundamental security risks of hardcoded credentials in source code, how GitHub's automated secret scanning prevents credential exposure, the proper implementation of secrets management using AWS SDK integration, Git rebasing techniques for removing sensitive data from commit history, and the separation of application logic from credential management.
