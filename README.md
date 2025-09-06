@@ -4,8 +4,6 @@
 
 ---
 
-## Introducing Today's Project!
-
 In this project, I will demonstrate my ability to architect and implement a comprehensive security monitoring solution using AWS cloud services to detect and respond to unauthorized access attempts on sensitive data.
 
 ### Tools and concepts
